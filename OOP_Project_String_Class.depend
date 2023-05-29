@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1676840333 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Project_String_Class/main.cpp
+	"clsString.h"
+	<iostream>
+
+1677130428 /home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Project_String_Class/include/clsString.h
+	<iostream>
+	<string>
+	<vector>
+
+1676812028 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Project_String_Class/src/clsString.cpp
+	"clsString.h"
+	<iostream>
+
